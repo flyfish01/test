@@ -1,0 +1,3 @@
+[submodule "service/aaa"]
+	path = service/aaa
+	url = git@github.com:dhramazen/test.git
